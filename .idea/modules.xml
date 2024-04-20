@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HBRS_EidP.iml" filepath="$PROJECT_DIR$/.idea/HBRS_EidP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u01a02/u01a02.iml" filepath="$PROJECT_DIR$/u01a02/u01a02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u03a06/u03a06.iml" filepath="$PROJECT_DIR$/u03a06/u03a06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u04a01/u04a01.iml" filepath="$PROJECT_DIR$/u04a01/u04a01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u04a06/u04a06.iml" filepath="$PROJECT_DIR$/u04a06/u04a06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u04a10/u04a10.iml" filepath="$PROJECT_DIR$/u04a10/u04a10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u05a09/u05a09.iml" filepath="$PROJECT_DIR$/u05a09/u05a09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u05a10/u05a10.iml" filepath="$PROJECT_DIR$/u05a10/u05a10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u05a11/u05a11.iml" filepath="$PROJECT_DIR$/u05a11/u05a11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u06a04/u06a04.iml" filepath="$PROJECT_DIR$/u06a04/u06a04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u06a05/u06a05.iml" filepath="$PROJECT_DIR$/u06a05/u06a05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u07a02/u07a02.iml" filepath="$PROJECT_DIR$/u07a02/u07a02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u07a03/u07a03.iml" filepath="$PROJECT_DIR$/u07a03/u07a03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u07a07/u07a07.iml" filepath="$PROJECT_DIR$/u07a07/u07a07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u08a09/u08a09.iml" filepath="$PROJECT_DIR$/u08a09/u08a09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u08a10/u08a10.iml" filepath="$PROJECT_DIR$/u08a10/u08a10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u09a05/u09a05.iml" filepath="$PROJECT_DIR$/u09a05/u09a05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u09a06/u09a06.iml" filepath="$PROJECT_DIR$/u09a06/u09a06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u09a08/u09a08.iml" filepath="$PROJECT_DIR$/u09a08/u09a08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10a03/u10a03.iml" filepath="$PROJECT_DIR$/u10a03/u10a03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10a04/u10a04.iml" filepath="$PROJECT_DIR$/u10a04/u10a04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10a05/u10a05.iml" filepath="$PROJECT_DIR$/u10a05/u10a05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10a10/u10a10.iml" filepath="$PROJECT_DIR$/u10a10/u10a10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11a02/u11a02.iml" filepath="$PROJECT_DIR$/u11a02/u11a02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11a04/u11a04.iml" filepath="$PROJECT_DIR$/u11a04/u11a04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11a06/u11a06.iml" filepath="$PROJECT_DIR$/u11a06/u11a06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u11a07/u11a07.iml" filepath="$PROJECT_DIR$/u11a07/u11a07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u12a02/u12a02.iml" filepath="$PROJECT_DIR$/u12a02/u12a02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u12a03/u12a03.iml" filepath="$PROJECT_DIR$/u12a03/u12a03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u12a06/u12a06.iml" filepath="$PROJECT_DIR$/u12a06/u12a06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u13a04/u13a04.iml" filepath="$PROJECT_DIR$/u13a04/u13a04.iml" />
+    </modules>
+  </component>
+</project>
